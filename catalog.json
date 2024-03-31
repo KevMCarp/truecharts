@@ -1,0 +1,38 @@
+{
+    "unstable": {
+        "librephotos": {
+            "app_readme": "A self-hosted open source photo management service.",
+            "categories": [
+                "unstable",
+                "photos"
+            ],
+            "description": "A self-hosted open source photo management service.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://github.com/LibrePhotos/librephotos",
+            "location": "/home/runner/work/catalog/catalog/unstable/librephotos",
+            "latest_version": "9.0.5",
+            "latest_app_version": "latests",
+            "latest_human_version": "latest_9.0.5",
+            "last_update": "2024-03-31 22:11:24",
+            "name": "librephotos",
+            "recommended": false,
+            "title": "Librephotos",
+            "maintainers": [
+                {
+                    "name": "ConcenTech",
+                    "email": "nas@concentechltd.co.uk",
+                    "url": "https://concentechltd.co.uk"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                " https://github.com/LibrePhotos/librephotos",
+                "https://github.com/truecharts/charts/tree/master/charts/unstable/librephotos",
+                "https://hub.docker.com/r/reallibrephotos/librephotos"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/librephotos.png"
+        }
+    }
+}
